@@ -1,7 +1,4 @@
 # APRR
-A HoloLens 2 application with HumanNeRF integration 
-
-![](/docs/System.jpg)
 
 
 HoloLens 2 Integration compare with RGBD point cloud streaming and volumetric rendering.
@@ -20,3 +17,9 @@ HoloLens 2 handmanipulation with 3D texture from Instant-NGP voxcel file.
 
 
 Code to be realease...
+
+A HoloLens 2 application with HumanNeRF integration 
+
+![](/docs/System.jpg)
+![](/docs/occludedEVal.jpg)
+![](/docs/jointEval.jpg)
