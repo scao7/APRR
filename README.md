@@ -21,5 +21,7 @@ Code to be realease...
 A HoloLens 2 application with HumanNeRF integration 
 
 ![](/docs/System.jpg)
-![](/docs/occludedEVal.jpg)
+
+![](/docs/occludedEval.jpg)
+
 ![](/docs/jointEval.jpg)
