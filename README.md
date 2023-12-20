@@ -10,6 +10,11 @@ Pose retargeting using long video stream and trained model.
 
 [![](https://markdown-videos-api.jorgenkh.no/youtube/ZBmASCCiJV4)](https://youtu.be/ZBmASCCiJV4)
 
+Train with YouTube real patient and retargeting pose with session video. Original patient is https://youtu.be/IV_IsstW-gA 
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/vUxpVMj0Uko)](https://youtu.be/vUxpVMj0Uko)
+
+
 
 HoloLens 2 handmanipulation with 3D texture from Instant-NGP voxcel file.
 
