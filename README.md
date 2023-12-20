@@ -34,6 +34,7 @@ A HoloLens 2 application with HumanNeRF integration
 ![](/docs/jointEval.jpg)
 
 ![](/docs/joint_mse.jpg)
+
 ![](/docs/transmission.jpg)
 
 ![](/docs/fps.jpg)
