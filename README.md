@@ -21,6 +21,7 @@ HoloLens 2 handmanipulation with 3D texture from Instant-NGP voxcel file.
 [![](https://markdown-videos-api.jorgenkh.no/youtube/66HBR5SJGzI)](https://youtu.be/66HBR5SJGzIs)
 
 
+
 Code to be realease...
 
 A HoloLens 2 application with HumanNeRF integration 
@@ -28,6 +29,9 @@ A HoloLens 2 application with HumanNeRF integration
 ![](/docs/System.jpg)
 
 ![](/docs/integration.jpg)
+
+[![](https://markdown-videos-api.jorgenkh.no/youtube/m1cr_77hECo)](https://www.youtube.com/shorts/m1cr_77hECo)
+
 
 ![](/docs/occludedEval.jpg)
 
@@ -38,3 +42,4 @@ A HoloLens 2 application with HumanNeRF integration
 ![](/docs/transmission.jpg)
 
 ![](/docs/fps.jpg)
+
